@@ -4,6 +4,13 @@ Given url of any website this web app counts and highlights the html element tag
 ## Demo
 - [http://shankscript.me/react-tag/](http://shankscript.me/react-tag/)
 
+## Tech
+- HTML parsing based on `Raw Regex`
+- `ReactJS` for rendering
+- `Axios` for http request
+- `PHP/Nodejs` for proxy cross origin server
+- `Linux php` hosting
+
 ## Source files
 - `FectUrl.js` - A React component to Render raw html, tags, badges, url input
 - `util.js` - logic for processing raw html, thereby generating tags tokens, counts, and decorating html with classes. More details in source comments
