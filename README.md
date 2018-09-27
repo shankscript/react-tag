@@ -9,4 +9,5 @@ Given url of any website this web app counts and highlights the html element tag
 - fetchUrl.php/server.js - A proxy server to route http request to given url, to avoid cross domain origin access issues and http/https insecure ajax request issues
 
 ## Screenshots
-
+![alt text](http://shankscript.me/react-tag/Screen1.png)
+![alt text](http://shankscript.me/react-tag/Screen2.png)
