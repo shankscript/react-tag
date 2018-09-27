@@ -7,6 +7,7 @@ Given url of any website this web app counts and highlights the html element tag
 ## Tech
 - HTML parsing based on `Raw Regex`
 - `ReactJS` for rendering
+- `Material UI` styling
 - `Axios` for http request
 - `PHP/Nodejs` for proxy cross origin server
 - `Linux php` hosting
