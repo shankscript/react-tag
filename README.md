@@ -17,4 +17,4 @@ Given url of any website this web app counts and highlights the html element tag
 
 ## Screenshots
 ![alt text](http://shankscript.me/react-tag/Screen1.png)
-![alt text](http://shankscript.me/react-tag/Screen2.png)
+![alt text](http://shankscript.me/react-tag/Screen.png)
