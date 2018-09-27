@@ -17,6 +17,9 @@ Given url of any website this web app counts and highlights the html element tag
 - `util.js` - logic for processing raw html, thereby generating tags tokens, counts, and decorating html with classes. More details in source comments
 - `fetchUrl.php/server.js` - A proxy server to route http request to given url, to avoid cross domain origin access issues and http/https insecure ajax request issues
 
+## Tested
+- Only in Chrome
+
 ## Build
 - Install nodejs, npm
 - Install npm i yarn -g
