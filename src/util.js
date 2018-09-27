@@ -4,7 +4,7 @@ export const processHtml = html => {
     let tags = html.match(/<([^/].*?)>/gi);
 
     // extracting tag names `tag` from <tag id="" blaa="">
-    let tagNames = tags.map(m => m.length < 250 && /<([^\s^>]*)>?/.exec(m)[1]);
+    let tagNames = tags.map(m => m.length < 250 && /<([^\s^>^!^-]*)>?/.exec(m)[1]).filter(m=> m.length);
     
     let tagNamesCount = {};
     
