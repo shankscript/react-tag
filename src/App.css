@@ -13,6 +13,18 @@
     border-bottom: 1px solid #bfbfbf;
     padding-bottom: 2rem;
 }
+.raw {
+    border-bottom: 1px solid #bfbfbf;
+    padding-bottom: 2rem;
+}
+
+#tags h2{
+    text-align: center;
+}
+
+pre, #tags {
+    text-align: initial;
+}
 .input-head button, .input-head div {
   margin:0;
 }
@@ -23,6 +35,10 @@
 
 .input-head button {
   margin-right:40px;
+}
+
+.FetchUrl {
+  padding:2rem 5rem;
 }
 
 .App-header {

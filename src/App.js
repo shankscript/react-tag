@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import FetchUrl from './components/FetchUrl';
-import logo from './logo.svg';
+import FetchUrl from './FetchUrl';
 import './App.css';
 
 class App extends Component {
